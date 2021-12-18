@@ -1,1 +1,2 @@
 # firstgulp
+npm install
